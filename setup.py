@@ -8,7 +8,7 @@ with open("README.md", "r") as fd:
 
 setuptools.setup(
     name="seq2seq-pytorch",
-    version="0.1.0",
+    version="0.1.2",
     description="Industrial-grade implementation of seq2seq algorithm based on Pytorch, integrated beam search algorithm.",
     long_description=long_description,
     long_description_content_type="text/markdown",
