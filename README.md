@@ -14,7 +14,7 @@ seq2seq is based on other excellent open source projects, this project has the f
 * Decoder: GRU with Attention Mechanism
 * Bahdanau Attention: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 * Luong Attention: [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
-* Diversity Promoting Beam Search: [A Simple, Fast Diverse Decoding Algorithm for Neural Generation](https://arxiv.org/pdf/1611.08562.pdf)
+* Diversity Promoting Beam Search: [A Simple, Fast Diverse Decoding Algorithm for Neural Generation](https://arxiv.org/abs/1611.08562)
 
 
 
